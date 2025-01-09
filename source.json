@@ -1,4 +1,16 @@
 {
+  "name": "Rifty's Repo",
+  "subtitle": "A source for all my apps",
+  "description": "This is Rifty's repo where you can find my apps for AltStore.",
+  "iconURL": "https://i.imgur.com/YgD6dl6.jpeg",
+  "headerURL": "https://example.com/header.png",
+  "website": "https://riftys-organization.gitbook.io/riftysrepo/",
+  "patreonURL": "https://patreon.com/yourpage",
+  "tintColor": "#FF5733",
+  "featuredApps": [
+    "Altos Adventure",
+    "Altos"
+  ],
   "apps": [
     {
       "name": "Altos Adventure",
@@ -6,18 +18,22 @@
       "marketplaceID": "950812012",
       "developerName": "Snowman",
       "subtitle": "An endless snowboarding adventure.",
-      "localizedDescription": "Join Alto and his friends as they embark on a snowboarding adventure across the beautiful hills of Altos Adventure. Collect coins, unlock characters, and explore the endless snow-covered landscape.",
+      "localizedDescription": "Join Alto and his friends as they embark on a snowboarding adventure across the beautiful hills of Altos Adventure.",
       "iconURL": "https://i.imgur.com/YgD6dl6.jpeg",
-      "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Alto.s.Adventure.-.Remastered.-.v1.0.7.ipa",
       "tintColor": "#F54F32",
       "category": "games",
-      "screenshots": [],
+      "screenshots": [
+        "https://example.com/screenshot1.png",
+        "https://example.com/screenshot2.png"
+      ],
       "versions": [
         {
           "version": "1.0.7",
-          "size": "87.9MB"
+          "size": "87.9MB",
+          "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Alto.s.Adventure.-.Remastered.-.v1.0.7.ipa"
         }
       ]
     }
-  ]
+  ],
+  "news": []
 }
