@@ -3,10 +3,9 @@
   "subtitle": "Your go-to app source for AltStore",
   "description": "A collection of apps and tools for AltStore users.",
   "iconURL": "https://i.imgur.com/YgD6dl6.jpeg",
-  "headerURL": "https://example.com/header.png",
+  "headerImageURL": "https://example.com/header.png",
   "website": "https://example.com",
   "tintColor": "#FF5733",
-  "featuredApps": ["com.snowman.altos-adventure"],
   "apps": [
     {
       "name": "Altos Adventure",
@@ -18,12 +17,12 @@
       "tintColor": "#F54F32",
       "screenshots": [
         {
-          "imageURL": "https://example.com/screenshot1.png",
+          "url": "https://example.com/screenshot1.png",
           "width": 1125,
           "height": 2436
         },
         {
-          "imageURL": "https://example.com/screenshot2.png",
+          "url": "https://example.com/screenshot2.png",
           "width": 1125,
           "height": 2436
         }
@@ -37,14 +36,7 @@
           "localizedDescription": "Initial release.",
           "minOSVersion": "12.0"
         }
-      ],
-      "appPermissions": {
-        "entitlements": ["com.apple.security.application-groups"],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "App saves screenshots to your Photo Library.",
-          "NSCameraUsageDescription": "App uses the camera to capture gameplay photos."
-        }
-      }
+      ]
     }
   ]
 }
