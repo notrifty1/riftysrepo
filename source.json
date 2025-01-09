@@ -8,6 +8,7 @@
       "subtitle": "An endless snowboarding adventure.",
       "localizedDescription": "Join Alto and his friends as they embark on a snowboarding adventure across the beautiful hills of Altos Adventure. Collect coins, unlock characters, and explore the endless snow-covered landscape.",
       "iconURL": "https://i.imgur.com/YgD6dl6.jpeg",
+      "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Alto.s.Adventure.-.Remastered.-.v1.0.7.ipa",
       "tintColor": "#F54F32",
       "category": "games",
       "screenshots": [],
@@ -18,9 +19,5 @@
         }
       ]
     }
-  ],
-  "appPermissions": {
-    "camera": "Used to capture screenshots in-game",
-    "documents": "Used for storing in-game progress"
-  }
+  ]
 }
