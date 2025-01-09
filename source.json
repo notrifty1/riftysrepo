@@ -1,42 +1,52 @@
 {
-  "name": "Rifty's Repo",
-  "subtitle": "Your go-to app source for AltStore",
-  "description": "A collection of apps and tools for AltStore users.",
-  "iconURL": "https://i.imgur.com/YgD6dl6.jpeg",
-  "headerImageURL": "https://example.com/header.png",
-  "website": "https://example.com",
-  "tintColor": "#FF5733",
   "apps": [
     {
-      "name": "Altos Adventure",
-      "bundleIdentifier": "com.snowman.altos-adventure",
+      "beta": false,
+      "bundleIdentifier": "com.snowman.altos-adventure.the-spirit-of-the-mountian",
       "developerName": "Snowman",
-      "subtitle": "An endless snowboarding adventure.",
-      "localizedDescription": "Join Alto and his friends as they snowboard across stunning landscapes.",
-      "iconURL": "https://i.imgur.com/YgD6dl6.jpeg",
-      "tintColor": "#F54F32",
-      "screenshots": [
-        {
-          "url": "https://example.com/screenshot1.png",
-          "width": 1125,
-          "height": 2436
-        },
-        {
-          "url": "https://example.com/screenshot2.png",
-          "width": 1125,
-          "height": 2436
-        }
+      "category": "Games",
+      "META": { "repoName": "RiftysRepo" },
+      "contact": {
+          "web": "https://github.com/notrifty1/riftysrepo"
+      },
+      "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Alto.s.Adventure.-.Remastered.-.v1.0.7.ipa",
+      "iconURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/images.jpg",
+      "localizedDescription": "Altos Adventure is a fun, relaxing game where you ski down mountains.",
+      "name": "Altos Adventure: The Spirit of the Mountain",
+      "screenshotURLs": [
+        "https://github.com/notrifty1/riftysrepo/blob/main/IMG_3345.jpeg?raw=true",
+        "https://github.com/notrifty1/riftysrepo/blob/main/IMG_3344.jpeg?raw=true",
+        "https://github.com/notrifty1/riftysrepo/blob/main/IMG_3346.jpeg?raw=true",
+        "https://github.com/notrifty1/riftysrepo/blob/main/IMG_3347.jpeg?raw=true",
+        "https://github.com/notrifty1/riftysrepo/blob/main/unnamed.jpeg?raw=true"
       ],
-      "versions": [
-        {
-          "version": "1.0.7",
-          "date": "2025-01-09T00:00:00-08:00",
-          "size": 92169216,
-          "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Altos_Adventure_Remastered_v1.0.7.ipa",
-          "localizedDescription": "Initial release.",
-          "minOSVersion": "12.0"
-        }
-      ]
+      "size": 87900000,
+      "minOSVersion": "15.0",
+      "appPermissions": {
+        "entitlements": [
+          { "name": "com.apple.security.application-groups" },
+          { "name": "com.apple.developer.associated-domains" },
+          { "name": "com.apple.developer.usernotifications.time-sensitive" },
+          { "name": "get-task-allow" },
+          { "name": "com.apple.developer.device-information.user-assigned-device-name" },
+          { "name": "com.apple.developer.group-session" },
+          { "name": "keychain-access-groups" },
+          { "name": "aps-environment" },
+          { "name": "com.apple.developer.siri" }
+        ]
+          
+          },
+      "subtitle": "Altos Adventure",
+      "tintColor": "e81e8a",
+      "version": "1.0.7",
+      "versionDate": "2024-10-10",
+      "versionDescription": "Bug Fixes"
     }
-  ]
+  ],
+  "identifier": "com.altosadevnture.source",
+  "name": "AltosAdventure Source",
+  "sourceURL": "https://raw.githubusercontent.com/notrifty1/riftysrepo/refs/heads/main/source.json",
+  "website": "https://github.com/notrifty1",
+  "news": [],
+  "userInfo": {}
 }
