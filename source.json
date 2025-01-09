@@ -33,9 +33,46 @@
           { "name": "keychain-access-groups" },
           { "name": "aps-environment" },
           { "name": "com.apple.developer.siri" }
-        ]
-          
-          },
+        ],
+          "privacy": [
+            {
+              "name": "AppleMusic",
+              "usageDescription": "This lets you add your own audio files to your videos."
+            },
+            {
+              "name": "BluetoothPeripheral",
+              "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
+            },
+            {
+              "name": "Camera",
+              "usageDescription": "This lets you create videos using the app."
+            },
+            {
+              "name": "Contacts",
+              "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+            },
+            {
+              "name": "LocalNetwork",
+              "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
+            },
+            {
+              "name": "LocationWhenInUse",
+              "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+            },
+            {
+              "name": "Microphone",
+              "usageDescription": "This lets you include audio with your videos and search using your voice."
+            },
+            {
+              "name": "PhotoLibrary",
+              "usageDescription": "This lets you upload media you've already created."
+            },
+            {
+              "name": "NSUserTrackingUsageDescription",
+              "usageDescription": "A message that informs the user why an app is requesting permission to use data for tracking the user or the device."
+            }
+          ]
+        },
       "subtitle": "Altos Adventure",
       "tintColor": "e81e8a",
       "version": "1.0.7",
@@ -43,9 +80,9 @@
       "versionDescription": "Bug Fixes"
     }
   ],
-  "identifier": "com.altosadevnture.source",
-  "name": "AltosAdventure Source",
-  "sourceURL": "https://raw.githubusercontent.com/notrifty1/riftysrepo/refs/heads/main/source.json",
+  "identifier": "com.riftysrepo.source",
+  "name": "Rifty's Source",
+  "sourceURL": "https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json",
   "website": "https://github.com/notrifty1",
   "news": [],
   "userInfo": {}
