@@ -7,7 +7,7 @@
       "developerName": "Snowman",
       "subtitle": "An endless snowboarding adventure.",
       "localizedDescription": "Join Alto and his friends as they embark on a snowboarding adventure across the beautiful hills of Altos Adventure. Collect coins, unlock characters, and explore the endless snow-covered landscape.",
-      "iconURL": "https://i.imgur.com/yourimage.png",  // Ensure this is a direct link to the image
+      "iconURL": "https://i.imgur.com/yourimage.png",
       "tintColor": "#F54F32",
       "category": "games",
       "screenshots": [],
