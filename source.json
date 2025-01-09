@@ -1,8 +1,10 @@
 {
   "name": "Rifty's Repo",
+  "identifier": "com.notrifty1.riftysrepo",
   "subtitle": "Your go-to app source for AltStore",
   "description": "A collection of apps and tools for AltStore users.",
   "iconURL": "https://i.imgur.com/YgD6dl6.jpeg",
+  "tintColor": "#FF5733",
   "apps": [
     {
       "name": "Altos Adventure",
@@ -13,10 +15,14 @@
       "iconURL": "https://i.imgur.com/YgD6dl6.jpeg",
       "tintColor": "#F54F32",
       "category": "games",
+      "screenshotURLs": [
+        "https://example.com/screenshot1.png",
+        "https://example.com/screenshot2.png"
+      ],
       "versions": [
         {
           "version": "1.0.7",
-          "size": "87.9MB",
+          "size": 92274688,
           "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Alto.s.Adventure.-.Remastered.-.v1.0.7.ipa"
         }
       ]
