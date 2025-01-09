@@ -1,27 +1,26 @@
 {
-    "apps": [
-      {
-        "name": "Altos Adventure",
-        "bundleIdentifier": "com.snowman.altos-adventure.the-spirit-of-the-mountain",
-        "marketplaceID": "950812012",
-        "developerName": "Snowman",
-        "subtitle": "An endless snowboarding adventure.",
-        "localizedDescription": "Join Alto and his friends as they embark on a snowboarding adventure across the beautiful hills of Altos Adventure. Collect coins, unlock characters, and explore the endless snow-covered landscape.",
-        "iconURL": "https://imgur.com/a/0MRzCNe",
-        "tintColor": "#F54F32",
-        "category": "games",
-        "screenshots": [],
-        "versions": [
-          {
-            "version": "1.0.7",
-            "size": "87.9MB"
-          }
-        ]
-      }
-    ],
-    "appPermissions": {
-      "camera": "Used to capture screenshots in-game",
-      "documents": "Used for storing in-game progress"
+  "apps": [
+    {
+      "name": "Altos Adventure",
+      "bundleIdentifier": "com.snowman.altos-adventure.the-spirit-of-the-mountain",
+      "marketplaceID": "950812012",
+      "developerName": "Snowman",
+      "subtitle": "An endless snowboarding adventure.",
+      "localizedDescription": "Join Alto and his friends as they embark on a snowboarding adventure across the beautiful hills of Altos Adventure. Collect coins, unlock characters, and explore the endless snow-covered landscape.",
+      "iconURL": "https://i.imgur.com/yourimage.png",  // Ensure this is a direct link to the image
+      "tintColor": "#F54F32",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.7",
+          "size": "87.9MB"
+        }
+      ]
     }
+  ],
+  "appPermissions": {
+    "camera": "Used to capture screenshots in-game",
+    "documents": "Used for storing in-game progress"
   }
-  
+}
