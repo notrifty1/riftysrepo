@@ -49,6 +49,17 @@
             "downloadURL": "https://github.com/ghl3m0n/FuckElon/releases/download/v1.1/X.10.68.1.FuckElon.@ghl3m0n.ipa",
             "localisedDescription": "A custom IPA that removes the X branding while keeping the new like, retweet, etc. icons. Made by ghl3m0n on github!",
             "versionDate": "2024-11-24"
+        },
+        {
+            "name": "Busuu",
+            "bundleIdentifier": "com.busuu.english.app",
+            "developerName": "Busuu Limited",
+            "iconURL": "https://github.com/notrifty1/riftysrepo/blob/main/Busuu%20Icon.png?raw=true",
+            "version": "28.20.1",
+            "size": 157913907,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6780f70602ec246f4678d929",
+            "localisedDescription": "A tweaked Busuu IPA created by @notblatant on telegram!",
+            "versionDate": "2024-12-18"
         }
     ]
 } 
