@@ -71,6 +71,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6780f82c02ec246f4678d940",
             "localisedDescription": "Free paid Papa's Mocharia app - Tweaked by Kamohacks, install satella or IOSGods IAP cracker for free IAP.",
             "versionDate": "2023-04-10"
+        },
+        {
+            "name": "Truecaller",
+            "bundleIdentifier": "com.truesoftware.TrueCaller0ther",
+            "developerName": "True Software",
+            "iconURL": "https://github.com/notrifty1/riftysrepo/blob/main/Untitled.jpg?raw=true",
+            "version": "13.27.5",
+            "size": 106983168,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67819990d58cf3a2c101ff49",
+            "localisedDescription": "Tweak made by @notblatant",
+            "versionDate": "2025-01-07"
         }
     ]
 } 
