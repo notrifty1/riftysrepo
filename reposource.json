@@ -71,17 +71,6 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6780f82c02ec246f4678d940",
             "localisedDescription": "Free paid Papa's Mocharia app - Tweaked by Kamohacks, install satella or IOSGods IAP cracker for free IAP.",
             "versionDate": "2023-04-10"
-        },
-        {
-            "name": "Streamer",
-            "bundleIdentifier": "com.streamer.ios",
-            "developerName": "Streamer Bot",
-            "iconURL": "https://private-user-images.githubusercontent.com/96978272/257921725-130f55c1-a906-4ec2-bbac-9276793473ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY1NDUwNDcsIm5iZiI6MTczNjU0NDc0NywicGF0aCI6Ii85Njk3ODI3Mi8yNTc5MjE3MjUtMTMwZjU1YzEtYTkwNi00ZWMyLWJiYWMtOTI3Njc5MzQ3M2ZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTEwVDIxMzIyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjMjI0MjJhNTVjZjQxOGRjNzA5ZmFlMDVmMDE3NmM3YzU5OTM2NTk5ZTNiNzliNTdlMTE0MDE5MjBlMTQ0M2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Eb9kQi0vXx2GWm1Rv1YV6UKoqXGHER1mVXupxxfBQ3w",
-            "version": "1.2.41",
-            "size": 34721178,
-            "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.41/Streamer-iOS.ipa",
-            "localisedDescription": "Streaming app for IOS.",
-            "versionDate": "2024-6-20"
         }
     ]
 } 
