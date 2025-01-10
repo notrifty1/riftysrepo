@@ -1,10 +1,10 @@
 {
     "name": "RiftysRepo",
+    "subtitle": "RiftysRepo",
     "identifier": "com.riftysrepo.source",
     "sourceURL": "https://raw.githubusercontent.com/notrifty1/riftysrepo/refs/heads/main/source.json",
     "iconURL": "https://github.com/notrifty1/riftysrepo/blob/main/unnamed.jpg?raw=true",
     "website": "https://github.com/notrifty1",
-    "subtitle": "RiftysRepo",
     "apps": [
       {
         "name": "Altos Adventure",
