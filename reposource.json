@@ -38,6 +38,17 @@
             "downloadURL": "https://github.com/mirarr-app/mirarr/releases/download/1.7.0/mirarr.ipa",
             "localisedDescription": "This is a movie app that aims to simplify the process of watching movies and TV shows.",
             "versionDate": "2024-12-21"
+        },
+        {
+            "name": "Twitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "developerName": "ghl3m0n",
+            "iconURL": "https://github.com/notrifty1/riftysrepo/blob/main/images.png?raw=true",
+            "version": "1.0.1",
+            "size": 325058560,
+            "downloadURL": "https://github.com/ghl3m0n/FuckElon/releases/download/v1.1/X.10.68.1.FuckElon.@ghl3m0n.ipa",
+            "localisedDescription": "A custom IPA that removes the X branding while keeping the new like, retweet, etc. icons. Made by ghl3m0n on github!",
+            "versionDate": "2024-11-24"
         }
     ]
 } 
