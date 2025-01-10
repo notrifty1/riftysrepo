@@ -27,6 +27,17 @@
             "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Altos-Odyssey-v1.3.0.ipa",
             "localisedDescription": "Join Alto and his friends as they embark on an endless sandboarding journey. Travel across the beautiful dunes of their native wilderness, through neighbouring villages, ancient woodlands, and long-abandoned ruins. If you have any trouble contact @rifty600 on telegram.",
             "versionDate": "2024-07-21"
+        },
+        {
+            "name": "Mirarr",
+            "bundleIdentifier": "com.example.Mirarr",
+            "developerName": "mirarr-app"
+            "iconURL": "https://github.com/notrifty1/riftysrepo/blob/main/152643153.png?raw=true",
+            "version": "1.7.0",
+            "size": 26019635,
+            "downloadURL": "https://github.com/mirarr-app/mirarr/releases/download/1.7.0/mirarr.ipa",
+            "loacalisedDescription": "This is a movie app that aims to simplify the process of watching movies and TV shows."
+            "versionDate": 2024-12-21"
         }
     ]
 } 
