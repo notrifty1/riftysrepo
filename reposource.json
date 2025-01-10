@@ -60,6 +60,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6780f70602ec246f4678d929",
             "localisedDescription": "A tweaked Busuu IPA created by @notblatant on telegram!",
             "versionDate": "2024-12-18"
+        },
+        {
+            "name": "Papa's Mocharia",
+            "bundleIdentifier": "com.flipline.papasmochariatogo",
+            "developerName": "Flipline Studios",
+            "iconURL": "https://images.sftcdn.net/images/t_app-icon-m/p/55c73a8b-51ba-4158-ba95-9b015083114a/3543065139/papas-mocharia-to-go-download-Papas-Mocharia-To-Go.jpg",
+            "version": "1.0.1,
+            "size": 61764608,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6780f82c02ec246f4678d940",
+            "localisedDescription": "Free paid Papa's Mocharia app - Tweaked by Kamohacks, install satella or IOSGods IAP cracker for free IAP.",
+            "versionDate": "2023-04-10"
         }
     ]
 } 
