@@ -82,6 +82,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67819990d58cf3a2c101ff49",
             "localisedDescription": "Tweak made by @notblatant",
             "versionDate": "2025-01-07"
+        },
+        {
+            "name": "Block Blast!",
+            "bundleIdentifier": "com.blockpuzzle.us.ios",
+            "developerName": "Hungry Studio",
+            "iconURL": "https://github.com/notrifty1/riftysrepo/blob/main/BlockBlast%20Icon.jpg?raw=true",
+            "version": "5.1.1",
+            "size": 87167232,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6781f3c2d58cf3a2c10207a3",
+            "localisedDescription": "Fun game.",
+            "versionDate": "2025-01-11"
         }
     ]
 } 
