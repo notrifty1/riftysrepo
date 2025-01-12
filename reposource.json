@@ -14,7 +14,7 @@
         "version": "1.0.7",
         "size": 87900000,
         "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Alto.s.Adventure.-.Remastered.-.v1.0.7.ipa",
-        "localisedDescription": "Join Alto and his friends as they embark on an endless snowboarding adventure. Travel across the beautiful alpine hills of their native wilderness, through neighbouring villages, ancient woodlands, and long-abandoned ruins. If you have any trouble contact @rifty600 on telegram.",
+        "localizedDescription": "Join Alto and his friends as they embark on an endless snowboarding adventure. Travel across the beautiful alpine hills of their native wilderness, through neighbouring villages, ancient woodlands, and long-abandoned ruins. If you have any trouble contact @rifty600 on telegram.",
         "versionDate": "2024-07-21"
       },
         {
@@ -25,7 +25,7 @@
             "version": "1.3.0",
             "size": 126533652,
             "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Altos-Odyssey-v1.3.0.ipa",
-            "localisedDescription": "Join Alto and his friends as they embark on an endless sandboarding journey. Travel across the beautiful dunes of their native wilderness, through neighbouring villages, ancient woodlands, and long-abandoned ruins. If you have any trouble contact @rifty600 on telegram.",
+            "localizedDescription": "Join Alto and his friends as they embark on an endless sandboarding journey. Travel across the beautiful dunes of their native wilderness, through neighbouring villages, ancient woodlands, and long-abandoned ruins. If you have any trouble contact @rifty600 on telegram.",
             "versionDate": "2024-07-21"
         },
         {
@@ -36,7 +36,7 @@
             "version": "1.7.0",
             "size": 26019635,
             "downloadURL": "https://github.com/mirarr-app/mirarr/releases/download/1.7.0/mirarr.ipa",
-            "localisedDescription": "This is a movie app that aims to simplify the process of watching movies and TV shows.",
+            "localizedDescription": "This is a movie app that aims to simplify the process of watching movies and TV shows.",
             "versionDate": "2024-12-21"
         },
         {
@@ -47,7 +47,7 @@
             "version": "1.0.1",
             "size": 325058560,
             "downloadURL": "https://github.com/ghl3m0n/FuckElon/releases/download/v1.1/X.10.68.1.FuckElon.@ghl3m0n.ipa",
-            "localisedDescription": "A custom IPA that removes the X branding while keeping the new like, retweet, etc. icons. Made by ghl3m0n on github!",
+            "localizedDescription": "A custom IPA that removes the X branding while keeping the new like, retweet, etc. icons. Made by ghl3m0n on github!",
             "versionDate": "2024-11-24"
         },
         {
@@ -58,7 +58,7 @@
             "version": "28.20.1",
             "size": 157913907,
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6780f70602ec246f4678d929",
-            "localisedDescription": "A tweaked Busuu IPA created by @notblatant on telegram!",
+            "localizedDescription": "A tweaked Busuu IPA created by @notblatant on telegram!",
             "versionDate": "2024-12-18"
         },
         {
@@ -69,7 +69,7 @@
             "version": "13.27.5",
             "size": 106983168,
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67819990d58cf3a2c101ff49",
-            "localisedDescription": "Tweak made by @notblatant",
+            "localizedDescription": "Tweak made by @notblatant!",
             "versionDate": "2025-01-07"
         },
         {
@@ -80,7 +80,7 @@
             "version": "5.1.1",
             "size": 87167232,
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6781f3c2d58cf3a2c10207a3",
-            "localisedDescription": "Fun game.",
+            "localizedDescription": "Block Blast! - No ads.",
             "versionDate": "2025-01-11"
         },
         {
@@ -91,7 +91,7 @@
             "version": "1.34.1",
             "size": 52843392,
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6783730a80b4bebd06c25863",
-            "localisedDescription": "Chickens... Eggs... Money...",
+            "localizedDescription": "Egg, Inc. - Free iAP",
             "versionDate": "2025-01-11"
         },
         {
@@ -102,18 +102,18 @@
             "version": "4.91.1",
             "size": 142389248,
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6783743b80b4bebd06c2587b",
-            "localisedDescription": "Mine",
+            "localizedDescription": "Idle Miner - Free iAP",
             "versionDate": "2025-01-12"
         },
         {
-              "name": "Rider",
+              "name": "unavailable right now",
             "bundleIdentifier": "com.ketchapp.rider",
             "developerName": "Ketchapp",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/07/22/0407221a-ffe8-1e68-0c4b-e353e2d6cb52/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/100x100bb.jpg",
             "version": "17.1.01",
             "size": 98789792,
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/678399d380b4bebd06c25b53",
-            "localisedDescription": "Rider",
+            "localizedDescription": "Rider - Free iAP",
             "versionDate": "2025-01-09"
         }
     ]
