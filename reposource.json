@@ -62,17 +62,6 @@
             "versionDate": "2024-12-18"
         },
         {
-            "name": "Papa's Mocharia",
-            "bundleIdentifier": "com.flipline.papasmochariatogo",
-            "developerName": "Flipline Studios",
-            "iconURL": "https://github.com/notrifty1/riftysrepo/blob/main/papas-mocharia-to-go-download-Papas-Mocharia-To-Go.png?raw=true",
-            "version": "1.0.1",
-            "size": 61764608,
-            "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Papa.sMochariaToGo.ipa",
-            "localisedDescription": "Free paid Papa's Mocharia app - Injected with IOSGods IAP cracker.",
-            "versionDate": "2023-04-10"
-        },
-        {
             "name": "Truecaller",
             "bundleIdentifier": "com.truesoftware.TrueCaller0ther",
             "developerName": "True Software",
