@@ -106,13 +106,13 @@
             "versionDate": "2025-01-12"
         },
         {
-              "name": "unavailable",
+              "name": "Rider",
             "bundleIdentifier": "com.ketchapp.rider",
             "developerName": "Ketchapp",
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/07/22/0407221a-ffe8-1e68-0c4b-e353e2d6cb52/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/100x100bb.jpg",
             "version": "17.1.01",
             "size": 98789792,
-            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/678399d380b4bebd06c25b53",
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67848e1a27a00ba08d07333a",
             "localizedDescription": "Rider - Free iAP",
             "versionDate": "2025-01-13"
         }
