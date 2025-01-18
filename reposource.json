@@ -1,8 +1,8 @@
 {
-  "name": "RiftysRepo",
-  "subtitle": "RiftysRepo",
+  "name": "Riftys Repo",
+  "subtitle": "Riftys Repo",
   "identifier": "com.riftysrepo.source",
-  "sourceURL": "https://raw.githubusercontent.com/notrifty1/riftysrepo/refs/heads/main/source.json",
+  "sourceURL": "https://raw.githubusercontent.com/notrifty1/riftysrepo/refs/heads/main/reposource.json",
   "iconURL": "https://github.com/notrifty1/riftysrepo/blob/main/unnamed.jpg?raw=true",
   "website": "https://github.com/notrifty1",
   "apps": [
