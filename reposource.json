@@ -126,7 +126,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6784b91727a00ba08d0735df",
             "localizedDescription": "Pintrest - No ads",
             "versionDate": "2025-01-13"
-        }
+        },
+        {
+              "name": "Opal: Screen Time Control",
+            "bundleIdentifier": "com.withopal.opal",
+            "developerName": "Opal OC",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/49/2f/01492f29-17df-bbd9-c7b2-c3dac9e81303/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+            "version": "3.93.1",
+            "size": 117711223,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/678b056870de0ae6a04924d4",
+            "localizedDescription": "Achieve screen time control with the world’s most-loved screen time app! Join my Telegram! t.me/riftysIPAlibrary",
+            "versionDate": "2025-01-18"
     ]
 } 
 
