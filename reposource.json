@@ -148,6 +148,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/678b64d470de0ae6a0492b4f",
             "localizedDescription": "Subscription Unlocked, Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-01-18"
+    },
+    {
+            "name": "Offline Games - No Wifi Games",
+            "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+            "developerName": "Moreno Maio",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/9d/7e/b19d7e6b-70b5-984b-f753-9b7251dea98b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "version": "2.11.3",
+            "size": 81243996,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6790d1767a708cac2ba8fcde",
+            "localizedDescription": "Offline Games with No Ads. Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-01-22"
     }
   ]
 }
