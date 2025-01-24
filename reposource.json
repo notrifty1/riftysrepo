@@ -159,6 +159,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6790d1767a708cac2ba8fcde",
             "localizedDescription": "Offline Games with No Ads. Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-01-22"
+    },
+    {
+            "name": "Feather",
+            "bundleIdentifier": "kh.crysailis.feather",
+            "developerName": "khcrysalis",
+            "iconURL": "https://feather-ios.com/assets/logo-squire.webp",
+            "version": "1.2.0",
+            "size": 1048576,
+            "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.2.0/feather_v1.2.0.ipa",
+            "localizedDescription": "Latest version of Feather. Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "24-01-2025"
     }
   ]
 }
