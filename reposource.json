@@ -181,6 +181,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/679762c5b0b7bff25e01f1e8",
             "localizedDescription": "Latest Bitlife Premium IPA - From KamoHacks (Actually IOSGods) - Removed KamoHacks Badge from Icon. Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-01-27"
+    },
+    {
+            "name": "Mirarr",
+            "bundleIdentifier": "com.example.mirarr",
+            "developerName": "Mirarr-App",
+            "iconURL": "https://github.com/mirarr-app/mirarr/blob/main/assets/images/duckie.png?raw=true",
+            "version": "1.7.2",
+            "size": 26246712,
+            "downloadURL": "https://github.com/mirarr-app/mirarr/releases/download/1.7.2/mirarr.ipa",
+            "localizedDescription": "Updated Mirarr IPA. This is a movie app that aims to simplify the process of watching movies and TV shows. Join my Telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-01-28"
     }
   ]
 }
