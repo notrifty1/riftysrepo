@@ -214,6 +214,39 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a3e10c8adcad3db9ab6204",
             "localizedDescription": "Premium offline games - Click buy > cancel. Join my telegram: t.me/riftysIPAlibrary.",
             "versionDate": "2025-02-03"
+    },
+    {
+            "name": "Idle Miner",
+            "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
+            "developerName": "Kolibri Games GmbH",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/6e/bb/706ebb57-a0ff-462b-7e05-35d4ecd90802/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+            "version": "4.95.0",
+            "size": 141291462,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a5c47272bfaf8448c01f1d",
+            "localizedDescription": "Idle Miner - Tycoon - Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-08"
+    },
+    {
+            "name": "My Perfect Hotel",
+            "bundleIdentifier": "com.master.hotelmaster",
+            "developerName": "SayGames LTD",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/03/1e/76031eb4-b69c-0dd3-796c-e505e532915c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+            "version": "1.18.0",
+            "size": 177250131,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a6a8bdab6265a34e09efe8",
+            "localizedDescription": "My Perfect Hotel - Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-08"
+    },
+    {
+            "name": "Spaceflight Simulator",
+            "bundleIdentifier": "com.StefMorojna.SpaceflightSimulator",
+            "developerName": "Spaceflight Simulator UK Ltd",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/0c/76/b70c7668-64cb-b21b-9b02-a811edb22a8d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+            "version": "1.5.10.5",
+            "size": 44419466,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a6a8acab6265a34e09efe6",
+            "localizedDescription": "Spaceflight Simulator - Free iAP (You'll need an IOSGods Account) - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-08"
     }
   ]
 }
