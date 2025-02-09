@@ -255,7 +255,7 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/08/fc/1408fca0-e215-f0e2-46da-4ad3049998cd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
             "version": "3.57",
             "size": 67965051,
-            "downloadURL": "http://34.131.58.206:8080/dl/67a817d28dcf04880ff86b53",
+            "downloadURL": "https://www.tgxdl4.workers.dev/v2/0:/dl/7779?hash=AgADTG",
             "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-02-09"
     },
@@ -266,8 +266,19 @@
             "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/40/9b/1c409b75-9903-8569-adce-5753a778ec3a/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg",
             "version": "1.1.80",
             "size": 77127101,
-            "downloadURL": "http://34.131.58.206:8080/dl/67a818ac8dcf04880ff86b5b",
+            "downloadURL": "https://www.tgxdl5.workers.dev/v2/0:/dl/7778?hash=AgADUG",
             "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-09"
+    },
+    {
+            "name": "Stick Hero",
+            "bundleIdentifier": "com.ketchapp.stickhero",
+            "developerName": "Ketchapp",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/35/1a/27351a3a-ae51-8c3e-b552-62d3af1e518c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+            "version": "2.4",
+            "size": 66544454,
+            "downloadURL": "https://www.tgxdl3.workers.dev/v2/0:/dl/7776?hash=AgADpW",
+            "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-02-09"
     }
   ]
