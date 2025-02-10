@@ -313,6 +313,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9913272b77be7cfa3b069",
             "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-02-10"
+    },
+    {
+            "name": "Traffic Rider",
+            "bundleIdentifier": "com.skgames.motor",
+            "developerName": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/18/1a/ac181a5c-8281-757c-3e9a-61241ea35b7e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+            "version": "2.0",
+            "size": 130949906,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9c48b72b77be7cfa3b4e6",
+            "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-10"
     }
   ]
 }
