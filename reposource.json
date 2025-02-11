@@ -324,6 +324,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9c48b72b77be7cfa3b4e6",
             "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-02-10"
+    },
+    {
+            "name": "Offline Games",
+            "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+            "developerName": "Moreno Maio",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/dc/85/3cdc856e-764b-9082-be1c-f61c6cb7625d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+            "version": "2.12.1",
+            "size": 87780973,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67aa93608077f33318aa8d8b",
+            "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-11"
     }
   ]
 }
