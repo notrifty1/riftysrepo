@@ -335,6 +335,17 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67aa93608077f33318aa8d8b",
             "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-02-11"
+    },
+    {
+       "name": "Opal: Screen Time Control",
+       "bundleIdentifier": "com.withopal.opal",
+       "developerName": "Opal OS",
+       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/49/2f/01492f29-17df-bbd9-c7b2-c3dac9e81303/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+       "version": "3.93.2",
+       "size": 117711223,
+       "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67ad8c99e29d7cc2fd1d6525",
+       "localizedDescription": "Subscription Unlocked - Trollstore Only - Join my Telegram: t.me/riftysIPAlibrary",
+       "versionDate": "2025-02-13"
     }
   ]
 }
