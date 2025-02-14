@@ -348,7 +348,7 @@
        "versionDate": "2025-02-13"
     },
     {
-       "name": "Block Blast!",
+      "name": "Block Blast!",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/56/5e/17565e56-646a-7f20-b0a6-6a25440dcff3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/512x512bb.jpg",
@@ -357,6 +357,17 @@
       "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67ae7e870011d73832c2f0dd",
       "localizedDescription": "No ads! - Join my telegram: t.me/riftysIPAlibrary",
       "versionDate": "2025-02-14"
+    },
+    {
+            "name": "Soundmap",
+            "bundleIdentifier": "app.mmap.mobile",
+            "developerName": "Intonation Studios Inc.",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/84/6c/f8846c19-8543-7d02-f747-43efe1720031/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+            "version": "1.52.0",
+            "size": 50205651,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67aed2460011d73832c2f52a",
+            "localizedDescription": "Subscription unlocked (may be for trollstore only) - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-14"
     }
   ]
 }
