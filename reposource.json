@@ -348,17 +348,6 @@
        "versionDate": "2025-02-13"
     },
     {
-      "name": "Block Blast!",
-      "bundleIdentifier": "com.blockpuzzle.us.ios",
-      "developerName": "Hungry Studio",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/56/5e/17565e56-646a-7f20-b0a6-6a25440dcff3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "version": "5.2.7",
-      "size": 87167232,
-      "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b04db5d5da1203732ecb90",
-      "localizedDescription": "(Tested) No ads! - Join my telegram: t.me/riftysIPAlibrary",
-      "versionDate": "2025-02-15"
-    },
-    {
             "name": "Soundmap",
             "bundleIdentifier": "app.mmap.mobile",
             "developerName": "Intonation Studios Inc.",
@@ -368,6 +357,29 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67aed2460011d73832c2f52a",
             "localizedDescription": "Subscription unlocked (may be for trollstore only) - Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-02-14"
+    },
+    {
+      "name": "Block Blast!",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "developerName": "Hungry Studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/56/5e/17565e56-646a-7f20-b0a6-6a25440dcff3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "version": "5.2.9",
+      "size": 87167232,
+      "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b135b012d5d2555f81e9e2",
+      "localizedDescription": "(Tested and fixed crashing) No ads! - Join my telegram: t.me/riftysIPAlibrary",
+      "versionDate": "2025-02-16"
+
+    },
+    {
+            "name": "Knife Hit",
+            "bundleIdentifier": "com.ketchapp.knifehit",
+            "developerName": "Ketchapp",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/c2/22/58c222e7-04c2-02e8-d993-27adf68de13f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+            "version": "1.9.22",
+            "size": 74127083,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b1359e12d5d2555f81e9e1",
+            "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-16"
     }
   ]
 }
