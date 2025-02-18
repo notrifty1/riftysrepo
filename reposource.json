@@ -402,6 +402,28 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b40c508839472367c5058d",
             "localizedDescription": "Free IAP - Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-02-18"
+    },
+    {
+      "name": "Block Blast!",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "developerName": "Hungry Studio",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/56/5e/17565e56-646a-7f20-b0a6-6a25440dcff3/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "version": "5.3.0",
+      "size": 87167232,
+      "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b5184aa16f2e195fda8f31",
+      "localizedDescription": "Ads Removed. - Join my telegram: t.me/riftysIPAlibrary",
+      "versionDate": "2025-02-19"
+    },
+    {
+      "name": "Infinite Craft",
+      "bundleIdentifier": "fun.neal.infinite.craft",
+      "developerName": "Neal.fun",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/0d/46/8d0d4621-0848-d9ea-f901-960e367c006e/AppIcon-0-0-1x_U007ephone-0-85-220.png/512x512bb.jpg",
+      "version": "1.8",
+      "size": 5629911,
+      "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b51834a16f2e195fda8f2e",
+      "localizedDescription": "Ads removed. - Join my telegram: t.me/riftysIPAlibrary",
+      "versionDate": "2025-02-19"
     }
   ]
 }
