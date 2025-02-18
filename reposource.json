@@ -380,6 +380,28 @@
             "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b1359e12d5d2555f81e9e1",
             "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
             "versionDate": "2025-02-16"
+    },
+    {
+            "name": "Jetpack Joyride",
+            "bundleIdentifier": "com.halfbrick.jetpack",
+            "developerName": "Halfbrick Studios",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a8/73/73a873bd-08e4-d82a-66e9-a3c12006d796/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "version": "1.97.1",
+            "size": 241752218,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b40c068839472367c5058a",
+            "localizedDescription": "Free IAP - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-18"
+    },
+    {
+            "name": "Hill Climb Racing",
+            "bundleIdentifier": "om.fingersoft.hillclimbracing",
+            "developerName": "FingerSoft",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/ea/66/e0ea66da-6969-88dc-2ce4-0997b85a5b3e/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
+            "version": "1.64.0",
+            "size": 112022584,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b40c508839472367c5058d",
+            "localizedDescription": "Free IAP - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-18"
     }
   ]
 }
