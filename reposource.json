@@ -424,6 +424,28 @@
       "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b51834a16f2e195fda8f2e",
       "localizedDescription": "Ads removed. - Join my telegram: t.me/riftysIPAlibrary",
       "versionDate": "2025-02-19"
+    },
+    {
+            "name": "Steve - Widgets, Wallpapers and Icons",
+            "bundleIdentifier": "iDeC.SteveWidget",
+            "developerName": "Calm Sea Enterprise, S.L.",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/10/7d/b4107de9-d2e1-7cbc-b0e7-9539ffc47693/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+            "version": "4.3.0",
+            "size": 171386406,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67be6b1aa4c0b89c735047de",
+            "localizedDescription": "Subscription Unlocked - Make sure to start your free trial for it to work.",
+            "versionDate": "2025-02-24"
+    },
+    {
+            "name": "Hill Climb Racing",
+            "bundleIdentifier": "om.fingersoft.hillclimbracing",
+            "developerName": "FingerSoft",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/ea/66/e0ea66da-6969-88dc-2ce4-0997b85a5b3e/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
+            "version": "1.64.5",
+            "size": 112022584,
+            "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67be6b96a4c0b89c735047e6",
+            "localizedDescription": "Free IAP - Join my telegram: t.me/riftysIPAlibrary",
+            "versionDate": "2025-02-26"
     }
   ]
 }
